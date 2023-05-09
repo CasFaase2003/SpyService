@@ -1,0 +1,135 @@
+.Logo {
+    width: 70px;
+}
+
+.navbar-right {
+    float: right;
+}
+
+footer {
+    position: sticky;
+    width: 100%;
+    color: white;
+}  
+
+.bg {
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.kleiner {
+    width: 75px;
+    position: relative;
+}
+
+.groter {
+ padding: 10px;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    color: #535454;
+}
+
+.center {
+  text-align: center;
+}
+
+.poop {
+    float: left;
+}
+
+.links {
+     position: relative;
+}
+
+.servHelp {
+    float: left;
+    text-align: center;
+    width: 200px;
+    margin-right: 50px;
+    margin-left: 200px;
+}
+
+.conBlocks {
+    float: left;
+    width: 200px;
+    margin-right: 50px;
+    margin-left: 60px;
+}
+
+.grootBlocks {
+    float: left;
+    width: 200px;
+    margin-right: 150px;
+    margin-left: 260px;
+}
+
+i.fa {
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0 0 2px #888;
+  padding: 0.5em 0.6em;
+
+}
+
+hr {
+    line-height: 50px;
+}
+
+h3 {
+    text-align: center;
+}
+
+h2 {
+    color: #1c5c93;
+}
+
+h1 {
+    color: #1c5c93;
+    text-align: center;
+}
+
+.about {
+    height: 470px;
+    width: 650px;
+}
+
+.display {
+    display: inline-block;
+    width: 470px;
+}
+
+.foto {
+    height: 275px;
+}
+
+.info-boven {
+   margin-left: 13px;
+   width: 250px;
+   opacity: 0.75;
+   background-color: cornflowerblue;
+   color: white;
+   text-align: center;
+   position: relative;
+   bottom: 30px;
+}
+
+.info-beneden {
+    margin-left: 13px;
+    width: 250px;
+    opacity: 0.75;
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+}
+
+.line {
+    border-bottom: 2px solid #fff;
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
