@@ -133,3 +133,15 @@ h1 {
     margin-top: 5px;
     margin-bottom: 5px;
 }
+
+.LoginButton {
+    background-color:dodgerblue;
+    color: white;
+}
+
+.color {
+    background-color: dodgerblue;
+    font-size: 20px;
+    font: bold;
+    color:white;
+}
